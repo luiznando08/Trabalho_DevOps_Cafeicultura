@@ -7,3 +7,6 @@ Projeto desenvolvido para a atividade prática de DevOps, aplicando deploy autom
 * **Containerização:** Docker (Nginx Alpine)
 * **CI/CD:** GitHub Actions
 * **Infraestrutura:** AWS EC2
+
+* teste
+* 
