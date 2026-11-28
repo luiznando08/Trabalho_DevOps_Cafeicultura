@@ -59,7 +59,7 @@ jobs:
         with:
           host: 98.90.40.29
           username: ubuntu
-          key: ${{ secrets.CHAVE }}
+          key: ${{ secrets.EC2_SSH_KEY }}
           script: |
             echo "Acesso liberado"
             sudo docker pull rhuan0000/devopscafeicultura:latest
